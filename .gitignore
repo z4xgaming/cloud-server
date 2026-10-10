@@ -1,0 +1,10 @@
+.env
+database.db
+uploads/
+logs/
+__pycache__/
+*.pyc
+.venv/
+*.out
+cf-token.txt
+*.log
